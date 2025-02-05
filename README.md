@@ -49,10 +49,10 @@
 </div>
 
 ###
-<h2 align="center"></h2>
-###
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=lukmanxpert)]
+<div align="center">
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=lukmanxpert)]
+</div>
 
 ###
 <div align="center">
