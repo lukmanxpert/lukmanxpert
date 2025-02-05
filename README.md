@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/d4pLg4BM/MD-Lukman-Miah.png"  />
+  <img src="https://i.ibb.co.com/d4pLg4BM/MD-Lukman-Miah.png"  />
 </div>
 
 ###
