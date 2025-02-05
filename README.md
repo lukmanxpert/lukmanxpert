@@ -68,6 +68,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lukmanxpert/lukmanxpert/output/snake.svg" alt="Snake animation" />
-
-###
