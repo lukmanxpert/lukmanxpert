@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating Dynamic Websites since 2023.<br>📚 I'm currently learning Next Js & Typescript.<br>🎯 Goals: Become a senior developer before 2025.<br>🎲 Fun fact: I love coding while listening to music.</p>
+<p align="left">✨ Creating Dynamic Websites since 2023.<br>📚 I'm currently learning Next Js & Typescript.<br>🎯 Goals: Become a senior developer in 2025.<br>🎲 Fun fact: I love coding while listening to music.</p>
 
 ###
 
