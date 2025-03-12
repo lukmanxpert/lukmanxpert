@@ -1,6 +1,3 @@
-<div align="">
-  <img src="https://i.ibb.co.com/d4pLg4BM/MD-Lukman-Miah.png"  />
-</div>
 
 ###
 
