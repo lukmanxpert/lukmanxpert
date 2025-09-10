@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/278GcDNc/MERN-Stack.png" alt="Banner Image" />
+<img src="https://i.ibb.co/d08919Pg/MERN-Stack.jpg" alt="Banner Image" />
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
