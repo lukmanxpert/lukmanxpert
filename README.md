@@ -1,84 +1,170 @@
-<img src="https://i.ibb.co/d08919Pg/MERN-Stack.jpg" alt="Banner Image" />
-<h1 align="left">Hey 👋 What's up?</h1>
+![MERN Banner](https://i.ibb.co/d08919Pg/MERN-Stack.jpg)
 
-###
+<h1 align="left">Hi 👋, I'm Lukman</h1>
+<h3 align="left">Full Stack Developer | MERN Stack Specialist</h3>
 
-<p align="left">My name is MD Lukman Miah and I'm a MERN Stack Developer, from Sylhet, Bangladesh.</p>
+<p align="left">
+🚀 Building modern, scalable, and high-performance web applications  
+📍 Sylhet, Bangladesh  
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🌐 Connect With Me
 
-###
+<p align="left">
+<a href="https://lukmanxpert.site" target="_blank">🌍 Portfolio</a> •
+<a href="mailto:lukmanmiah2004@gmail.com">📧 Email</a> •
+<a href="https://linkedin.com/in/lukmanxpert" target="_blank">LinkedIn</a> •
+<a href="https://facebook.com/lukmanxpert" target="_blank">Facebook</a> •
+<a href="https://twitter.com/lukmanxpert" target="_blank">Twitter</a> •
+<a href="https://github.com/lukmanxpert" target="_blank">GitHub</a>
+</p>
 
-<p align="left">I'm a MERN stack developer passionate about building scalable and efficient web applications. I specialize in React for the frontend and Node.js with Express for the backend, using MongoDB for data management. Always eager to learn and explore new technologies! 🚀</p>
+---
 
-###
+## 🧠 About Me
 
-<p align="left">✨ Creating Dynamic Websites since 2023.<br>📚 I'm currently learning Next Js & Typescript.<br>🎯 Goals: Become a senior developer in 2026.<br>🎲 Fun fact: I love coding while listening to music.</p>
+I'm a passionate **Full Stack Developer** focused on building clean, scalable, and user-focused web applications using modern technologies.
 
-###
+I specialize in crafting fast, responsive, and SEO-friendly applications with **React, Next.js, and Node.js**, helping businesses transform outdated systems into high-performing digital products.
 
-<h2 align="center">I code with</h2>
+💡 What makes me different:
 
-###
-<div><div/>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
+* I focus on **business impact**, not just code
+* I care about **performance, conversion, and user experience**
+* I build solutions that are **practical, scalable, and client-focused**
 
-<h2 align="center">Tools</h2>
+🎯 My goal:
+To build impactful **software products or games** that reach a wide audience and generate sustainable income.
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-</div>
+## 🛠️ Skills & Technologies
 
-###
-  <h1></h1>
-<div align="center" style={display: flex, justify-item: center, align-item: center, gap: 5px}>
-  <img src="https://github-readme-stats.vercel.app/api?username=lukmanxpert&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukmanxpert&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <h1></h1>
+### 🎨 Frontend
 
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=lukmanxpert&theme=dark)](https://git.io/streak-stats)
-</div>
+* React.js
+* Next.js
+* Redux / Redux Toolkit
+* Tailwind CSS
+* ShadCN UI
+* HTML5 / CSS3 / JavaScript (ES6+)
 
-###
+### ⚙️ Backend
 
-<h2 align="center">Contact with me</h2>
+* Node.js
+* Express.js
+* REST API Development
+* Prisma ORM
 
-###
+### 🗄️ Database
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/lukmanxpert/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/lukmanxpert" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/lukmanxpert" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  </a>
-</div>
+* PostgreSQL
+* MongoDB
+
+### 🧰 Tools & Others
+
+* Git & GitHub
+* VS Code
+* Postman
+* Docker
+* Prisma Studio
+* Figma (for UI understanding)
+* Chrome DevTools
+* Deployment (Vercel, Netlify)
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux" />
+<img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Project Name
+
+* **Description:** Short description of what the project does
+* **Tech Stack:** React, Node.js, MongoDB
+* **Live:** [Live Link Here]
+* **GitHub:** [Repo Link Here]
+
+### 🔹 Project Name
+
+* **Description:** Short description of what the project does
+* **Tech Stack:** Next.js, PostgreSQL
+* **Live:** [Live Link Here]
+* **GitHub:** [Repo Link Here]
+
+### 🔹 Project Name
+
+* **Description:** Short description of what the project does
+* **Tech Stack:** MERN Stack
+* **Live:** [Live Link Here]
+* **GitHub:** [Repo Link Here]
+
+---
+
+## 💼 Experience
+
+**Frontend Developer**
+**Softvence Agency**
+📅 Duration: 3 Months (Running)
+
+**Key Contributions:**
+
+* Delivered multiple client projects successfully
+* Built responsive and modern UI components
+* Improved UI/UX for better user engagement
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lukmanxpert&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lukmanxpert&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukmanxpert&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💼 Services I Offer
+
+🚀 Website Development
+🎨 UI/UX Improvement
+⚡ Performance Optimization
+🐞 Bug Fixing
+📈 SEO Optimization
+📢 Google Ads Management
+🎬 YouTube Video Promotion
+
+---
+
+## 📣 Let's Work Together
+
+I'm always open to working on exciting projects, especially where I can help improve **performance, design, or business growth**.
+
+If you have a project, idea, or need help with your website:
+
+👉 Reach out via email or social media
+👉 Let’s build something impactful together
+
+---
+
+<p align="center">
+✨ Turning ideas into real-world digital products ✨
+</p>
